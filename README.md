@@ -90,7 +90,7 @@ The model performed well across all classes, with particularly strong performanc
 ```text
 Car-Evaluation-Decision-Tree/
 │
-├── Car_Evaluation_Decision_Tree.ipynb
+├── Decision_Tree.ipynb
 ├── README.md
 ├── requirements.txt
 ├── dataset/
